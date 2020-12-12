@@ -4,6 +4,10 @@ title: Player:KitPickup
 
 > **Player:KitPickup**(player: [Player](/vext/ref/server/type/player), newCustomization: [DataContainer](/vext/ref/shared/type/datacontainer))
 
+## Description 
+
+- Gets fired each time a player picks a kit up.
+
 ## Parameters
 
 | Name | Type | Description |
