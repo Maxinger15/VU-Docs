@@ -7,6 +7,7 @@ title: Vehicle:Disabled
 ## Description 
 
 - Gets fired each time a vehicle gets disabled.
+- Entitytype: VehicleEntity ([ControllableEntity](/vext/ref/server/controllableentity))
 
 ## Parameters
 
