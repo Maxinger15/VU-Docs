@@ -7,6 +7,7 @@ title: Vehicle:Destroyed
 ## Description 
 
 - Gets fired each time a vehicle gets destroyed.
+- Entitytype: VehicleEntity ([ControllableEntity](/vext/ref/server/controllableentity))
 
 ## Parameters
 
