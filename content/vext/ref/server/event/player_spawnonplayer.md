@@ -6,7 +6,7 @@ title: Player:SpawnOnPlayer
 
 ## Description 
 
-- Gets fired each time a player spawns at another player.
+- Gets fired each time a player spawns on another player.
 
 ## Parameters
 
