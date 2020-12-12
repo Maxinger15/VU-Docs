@@ -4,6 +4,10 @@ title: Vehicle:Destroyed
 
 > **Vehicle:Destroyed**(vehicle: [Entity](/vext/ref/shared/type/entity), vehiclePoints: int, hotTeam: [TeamId](/vext/ref/fb/teamid))
 
+## Description 
+
+- Gets fired each time a vehicle gets destroyed.
+
 ## Parameters
 
 | Name | Type | Description |
