@@ -4,6 +4,11 @@ title: CapturePoint:Lost
 
 > **CapturePoint:Lost**(capturePoint: [Entity](/vext/ref/shared/type/entity))
 
+## Description
+
+- Gets fired each time a capture point is lost/ neutralized.
+- Entitytype: [CapturePointEntity](/vext/ref/server/type/capturepointentity)
+
 ## Parameters
 
 | Name | Type | Description |
