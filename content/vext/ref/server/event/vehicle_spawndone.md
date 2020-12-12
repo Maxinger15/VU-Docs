@@ -7,6 +7,7 @@ title: Vehicle:SpawnDone
 ## Description 
 
 - Gets fired each time a vehicle spawns.
+- Entitytype: VehicleEntity ([ControllableEntity](/vext/ref/server/controllableentity))
 
 ## Parameters
 
