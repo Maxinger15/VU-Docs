@@ -7,6 +7,7 @@ title: Vehicle:Unspawn
 ## Description 
 
 - Gets fired each time a vehicle unspawns.
+- Entitytype: VehicleEntity ([ControllableEntity](/vext/ref/server/controllableentity))
 
 ## Parameters
 
