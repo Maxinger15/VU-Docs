@@ -4,6 +4,10 @@ title: Vehicle:Damage
 
 > **Vehicle:Damage**(vehicle: [Entity](/vext/ref/shared/type/entity), damage: float, info: [DamageGiverInfo](/vext/ref/server/type/damagegiverinfo) \| nil)
 
+## Description 
+
+- Gets fired each time a vehicle gets damaged.
+
 ## Parameters
 
 | Name | Type | Description |
