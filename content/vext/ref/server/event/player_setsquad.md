@@ -4,6 +4,10 @@ title: Player:SetSquad
 
 > **Player:SetSquad**(player: [Player](/vext/ref/server/type/player), squad: [SquadId](/vext/ref/fb/squadid))
 
+## Description 
+
+- Gets fired each time a player is set to squad.
+
 ## Parameters
 
 | Name | Type | Description |
