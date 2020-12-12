@@ -4,6 +4,10 @@ title: Player:Respawn
 
 > **Player:Respawn**(player: [Player](/vext/ref/server/type/player))
 
+## Description 
+
+- Gets fired each time a player spawns.
+
 ## Parameters
 
 | Name | Type | Description |
