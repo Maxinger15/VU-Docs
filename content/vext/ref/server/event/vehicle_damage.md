@@ -7,6 +7,7 @@ title: Vehicle:Damage
 ## Description 
 
 - Gets fired each time a vehicle gets damaged.
+- Entitytype: VehicleEntity ([ControllableEntity](/vext/ref/server/controllableentity))
 
 ## Parameters
 
