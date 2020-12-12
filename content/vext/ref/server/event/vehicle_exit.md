@@ -4,6 +4,10 @@ title: Vehicle:Exit
 
 > **Vehicle:Exit**(vehicle: [Entity](/vext/ref/shared/type/entity), player: [Player](/vext/ref/server/type/player))
 
+## Description 
+
+- Gets fired each time a player leaves a vehicle.
+
 ## Parameters
 
 | Name | Type | Description |
