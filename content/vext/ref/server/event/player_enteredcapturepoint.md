@@ -4,6 +4,11 @@ title: Player:EnteredCapturePoint
 
 > **Player:EnteredCapturePoint**(player: [Player](/vext/ref/server/type/player), capturePoint: [Entity](/vext/ref/shared/type/entity))
 
+## Description 
+
+- Gets fired each time a player enters a capture point area.
+- Entitytype: [CapturePointEntity](/vext/ref/server/type/capturepointentity)
+
 ## Parameters
 
 | Name | Type | Description |
