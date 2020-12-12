@@ -7,6 +7,7 @@ title: Player:SpawnAtVehicle
 ## Description 
 
 - Gets fired each time a player spawns at vehicle. (Only vehicles that have a blue icon in the spawnscreen.)
+- Entitytype: VehicleEntity ([ControllableEntity](/vext/ref/server/controllableentity))
 
 ## Parameters
 
