@@ -7,6 +7,7 @@ title: Vehicle:Exit
 ## Description 
 
 - Gets fired each time a player leaves a vehicle.
+- Entitytype: VehicleEntity ([ControllableEntity](/vext/ref/server/controllableentity))
 
 ## Parameters
 
