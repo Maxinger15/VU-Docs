@@ -7,6 +7,7 @@ title: Vehicle:Enter
 ## Description 
 
 - Gets fired each time a player enters a vehicle.
+- Entitytype: VehicleEntity ([ControllableEntity](/vext/ref/server/controllableentity))
 
 ## Parameters
 
