@@ -4,6 +4,11 @@ title: Client:PostFrameUpdate
 
 > **Client:PostFrameUpdate**(deltaTime: float)
 
+## Description
+
+- TODO
+
+
 ## Parameters
 
 | Name | Type | Description |

@@ -4,6 +4,11 @@ title: UI:CreateChatMessage
 
 > **UI:CreateChatMessage**(message: string, channelId: [ChatChannelType](/vext/ref/fb/chatchanneltype), playerId: int, recipientMask: int, isSenderDead: bool)
 
+## Description
+
+- Access to a new chat message.
+
+
 ## Parameters
 
 | Name | Type | Description |

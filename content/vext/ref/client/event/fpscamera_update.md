@@ -4,6 +4,10 @@ title: FPSCamera:Update
 
 > **FPSCamera:Update**(deltaTime: float)
 
+## Description
+
+- TODO
+
 ## Parameters
 
 | Name | Type | Description |

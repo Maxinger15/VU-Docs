@@ -4,6 +4,10 @@ title: UI:DrawNametags
 
 > **UI:DrawNametags**()
 
+## Description
+
+- Triggered when any nametag should be drawed
+
 ## Example
 
 ```lua

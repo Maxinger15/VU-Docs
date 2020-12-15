@@ -4,6 +4,10 @@ title: UI:PushScreen
 
 > **UI:PushScreen**(screen: [DataContainer](/vext/ref/shared/type/datacontainer), priority: [UIGraphPriority](/vext/ref/fb/uigraphpriority), parentGraph: [DataContainer](/vext/ref/shared/type/datacontainer), stateNodeGuid: [Guid](/vext/ref/shared/type/guid) \| nil): bool
 
+## Description
+
+- Triggered when a new UI should be displayed
+
 ## Parameters
 
 | Name | Type | Description |

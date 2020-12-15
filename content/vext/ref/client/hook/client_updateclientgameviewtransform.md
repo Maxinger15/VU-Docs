@@ -4,6 +4,11 @@ title: Client:UpdateClientGameViewTransform
 
 > **Client:UpdateClientGameViewTransform**(transform: [LinearTransform](/vext/ref/shared/type/lineartransform))
 
+## Description
+
+- TODO
+
+
 ## Parameters
 
 | Name | Type | Description |

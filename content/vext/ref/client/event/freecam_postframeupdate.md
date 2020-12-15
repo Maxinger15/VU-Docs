@@ -4,6 +4,11 @@ title: FreeCam:PostFrameUpdate
 
 > **FreeCam:PostFrameUpdate**(deltaTime: float)
 
+## Description
+
+- TODO
+
+
 ## Parameters
 
 | Name | Type | Description |

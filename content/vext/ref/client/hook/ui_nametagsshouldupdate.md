@@ -4,6 +4,10 @@ title: UI:NametagsShouldUpdate
 
 > **UI:NametagsShouldUpdate**(): bool
 
+## Description
+
+- Triggered when nametags should be updated
+
 ## Returns
 
 | Type | Description |

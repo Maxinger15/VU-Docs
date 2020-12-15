@@ -4,6 +4,10 @@ title: UI:RenderMinimap
 
 > **UI:RenderMinimap**()
 
+## Description
+
+- Triggered when the minimap should be rendered
+
 ## Example
 
 ```lua

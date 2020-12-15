@@ -4,6 +4,10 @@ title: Player:TeamChange
 
 > **Player:TeamChange**(player: [Player](/vext/ref/client/type/player), team: [TeamId](/vext/ref/fb/teamid), squad: [SquadId](/vext/ref/fb/squadid))
 
+## Description
+
+- Fired when a player changed his team
+
 ## Parameters
 
 | Name | Type | Description |

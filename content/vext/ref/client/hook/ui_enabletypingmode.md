@@ -4,6 +4,10 @@ title: UI:EnableTypingMode
 
 > **UI:EnableTypingMode**(enable: bool)
 
+## Description
+
+- Triggered when the keyboard input should be recognized as text
+
 ## Parameters
 
 | Name | Type | Description |

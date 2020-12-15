@@ -4,6 +4,10 @@ title: UI:DrawSquadNametag
 
 > **UI:DrawSquadNametag**()
 
+## Description
+
+- Triggered when squad nametags should be drawed
+
 ## Example
 
 ```lua

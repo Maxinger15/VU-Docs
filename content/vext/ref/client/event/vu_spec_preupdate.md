@@ -4,6 +4,11 @@ title: VU:Spec:PreUpdate
 
 > **VU:Spec:PreUpdate**(deltaTime: float)
 
+## Description
+
+- TODO
+
+
 ## Parameters
 
 | Name | Type | Description |

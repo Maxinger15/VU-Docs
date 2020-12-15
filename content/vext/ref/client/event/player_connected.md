@@ -3,9 +3,10 @@ title: Player:Connected
 ---
 
 > **Player:Connected**(player: [Player](/vext/ref/client/type/player))
-## Reasons
-- Player connected to the server
-- Server is leaving pre-round and reloads the match
+## Description 
+
+- Gets fired when a player connected to the server
+
 ## Parameters
 
 | Name | Type | Description |

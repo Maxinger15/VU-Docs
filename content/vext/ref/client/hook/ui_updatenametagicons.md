@@ -4,6 +4,10 @@ title: UI:UpdateNametagIcons
 
 > **UI:UpdateNametagIcons**()
 
+## Description
+
+- Triggered when the nametag icons should update
+
 ## Example
 
 ```lua

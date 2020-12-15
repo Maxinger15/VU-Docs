@@ -4,8 +4,9 @@ title: Player:Killed
 
 > **Player:Killed**(player: [Player](/vext/ref/client/type/player))
 
-## Reasons
-- Revive time is over and so player is save dead
+## Description
+
+- Revive time is over and player is save dead
 
 ## Parameters
 

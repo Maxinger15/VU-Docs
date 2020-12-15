@@ -4,6 +4,10 @@ title: Client:UpdateFirstPersonTransform
 
 > **Client:UpdateFirstPersonTransform**(transform: [LinearTransform](/vext/ref/shared/type/lineartransform))
 
+## Description
+
+- TODO
+
 ## Parameters
 
 | Name | Type | Description |

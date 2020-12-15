@@ -4,6 +4,10 @@ title: UI:DrawFriendlyNametag
 
 > **UI:DrawFriendlyNametag**()
 
+## Description
+
+- Triggered when friendly nametags should be drawed
+
 ## Example
 
 ```lua

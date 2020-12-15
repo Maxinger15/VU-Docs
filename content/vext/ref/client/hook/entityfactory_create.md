@@ -4,6 +4,10 @@ title: EntityFactory:Create
 
 > **EntityFactory:Create**(entityData: [DataContainer](/vext/ref/shared/type/datacontainer), transform: [LinearTransform](/vext/ref/shared/type/lineartransform)): [Entity](/vext/ref/shared/type/entity) \| nil
 
+## Description
+
+- New Entity will be created
+
 ## Parameters
 
 | Name | Type | Description |

@@ -4,6 +4,10 @@ title: UI:EnableCursorMode
 
 > **UI:EnableCursorMode**(enable: bool, cursor: int)
 
+## Description
+
+- Triggerd when the mouse will be activated
+
 ## Parameters
 
 | Name | Type | Description |

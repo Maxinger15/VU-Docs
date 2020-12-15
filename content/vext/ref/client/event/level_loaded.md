@@ -4,8 +4,10 @@ title: Level:Loaded
 
 > **Level:Loaded**(levelName: string, gameMode: string)
 
-## Reasons
+## Description
+
 - All relevant partitions and assets loaded
+
 ## Parameters
 
 | Name | Type | Description |

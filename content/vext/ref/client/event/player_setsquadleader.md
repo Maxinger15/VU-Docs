@@ -4,6 +4,10 @@ title: Player:SetSquadLeader
 
 > **Player:SetSquadLeader**(player: [Player](/vext/ref/client/type/player))
 
+## Description
+
+- Fired everytime a new squadleader is assigned
+
 ## Parameters
 
 | Name | Type | Description |

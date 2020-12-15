@@ -4,6 +4,10 @@ title: UI:CreateKillMessage
 
 > **UI:CreateKillMessage**()
 
+## Description
+
+- TODO
+
 ## Example
 
 ```lua

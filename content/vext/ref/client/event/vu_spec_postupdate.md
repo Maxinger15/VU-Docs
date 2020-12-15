@@ -4,6 +4,11 @@ title: VU:Spec:PostUpdate
 
 > **VU:Spec:PostUpdate**(deltaTime: float)
 
+## Description
+
+- TODO
+
+
 ## Parameters
 
 | Name | Type | Description |

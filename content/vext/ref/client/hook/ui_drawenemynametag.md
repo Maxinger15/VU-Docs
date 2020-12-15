@@ -4,6 +4,11 @@ title: UI:DrawEnemyNametag
 
 > **UI:DrawEnemyNametag**()
 
+## Description
+
+- Triggered when enemy nametags should be drawed
+
+
 ## Example
 
 ```lua

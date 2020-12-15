@@ -4,6 +4,10 @@ title: UI:DrawMoreNametags
 
 > **UI:DrawMoreNametags**()
 
+## Description
+
+- TODO
+
 ## Example
 
 ```lua

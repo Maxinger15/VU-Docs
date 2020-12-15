@@ -4,6 +4,11 @@ title: Player:Deleted
 
 > **Player:Deleted**(player: [Player](/vext/ref/client/type/player))
 
+## Description
+
+- TODO
+
+
 ## Parameters
 
 | Name | Type | Description |
